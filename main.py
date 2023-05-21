@@ -1,7 +1,7 @@
 import time
 
 def tabata_timer():
-    round = 1 # all 4 exercises = 1 round
+    round = 1 # all 4 exercises = 1 round blah blah blah
     set = 1 # 4 rounds = 1 set
     timework = 30 # time working
     timerest = 30 # time resting
